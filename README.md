@@ -342,4 +342,10 @@ CLOUDINARY_API_SECRET=your-api-secret
 | **Debug** | django-debug-toolbar |
 | **Database** | SQLite (dev) |
 
+## 👨‍💻 Author
+
+**Raihan Habib Akash**
+---
+Software Engineer | Competitive Programmer
+
 > Built with  using Django REST Framework"# -Library_Books_Management_System" 
